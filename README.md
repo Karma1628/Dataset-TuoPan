@@ -30,5 +30,6 @@
 
 数据集可以通过以下链接下载：
 
-- 链接：[https://pan.baidu.com/s/1S3_GPZwUxdU2hjM5yGQyag?pwd=1234](https://pan.baidu.com/s/1S3_GPZwUxdU2hjM5yGQyag?pwd=1234)
-- 提取码：`1234`
+
+链接: https://pan.baidu.com/s/1U3sDI-94Y_xqmX7kH28xJQ?pwd=1234 
+提取码: 1234
